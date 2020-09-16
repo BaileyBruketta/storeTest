@@ -1,0 +1,14 @@
+int ItemID, string ItemType, float price, string name
+1,0,17.77,flat cap
+2,0,15.49,ball cap
+3,0,15.77,snapback
+4,0,0.00,tinfoil cap
+5,0,8.57,pinwheel hat
+6,1,20.00,windbreaker
+7,1,55,bomber jacket
+8,1,135,puffy coat
+9,1,500,fur coat
+10,1,75,track jacket
+11,1,130,varsity jacket
+12,1,55,jean jacket
+
